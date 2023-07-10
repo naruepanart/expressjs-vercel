@@ -5,7 +5,7 @@ const doc = {
     title: "ExpressJS API",
     description: "Deployed on vercel",
   },
-  host: "localhost:3000",
+  host: "expressjs-vercel-mu.vercel.app",
   schemes: ["http"],
 };
 
